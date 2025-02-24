@@ -1,0 +1,17 @@
+h1{
+    border-style: solid;
+    border-width: 3px;
+    border-color: royalblue;
+    border-radius: 20px;
+}
+#p1{
+    border: 3px solid royalblue;
+    border-radius: 10px;
+}
+#p2{
+    border-bottom: 3px solid royalblue;
+    border-top: 3px solid royalblue;
+    border-left: 3px dotted royalblue;
+    border-right: 3px dotted royalblue;
+    border-radius: 10px;
+}
