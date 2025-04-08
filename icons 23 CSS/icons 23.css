@@ -1,0 +1,42 @@
+.icons{
+    text-align: center;
+}
+
+.icons a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.fa-solid.fa-house.fa-5x{
+    color: gray;
+}
+
+.fa-solid.fa-house.fa-5x:hover{
+    color: rgb(81, 78, 78);
+}
+
+.fa-solid.fa-house-laptop.fa-5x{
+    color: red;
+}
+
+.fa-solid.fa-house-laptop.fa-5x:hover{
+    color: rgb(79, 1, 1);
+}
+
+.fa-solid.fa-house-lock.fa-5x{
+    color: blue;
+}
+
+.fa-solid.fa-house-lock.fa-5x:hover{
+    color: rgb(2, 2, 92);
+}
+
+.fa-solid.fa-igloo.fa-5x{
+    color: green;
+}
+
+.fa-solid.fa-igloo.fa-5x:hover{
+    color: rgb(0, 74, 0);
+}
+
+ 
